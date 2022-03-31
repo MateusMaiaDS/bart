@@ -1,2 +1,2 @@
 ### BART.
-Base BART for future extensions.
+Base BART (slow version) for future extensions.
